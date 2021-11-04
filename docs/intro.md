@@ -2,23 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bắt đầu 🚀
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Tài liệu này giúp các bạn hiểu rõ hơn về React Native cho người mới bắt đầu**.
 
-## Getting Started
+## Cài đặt môi trường 
 
-Get started by **creating a new site**.
+Bạn có thể tham khảo cài đặt môi trường làm việc tại trang : **[reactnative.dev](https://reactnative.dev/docs/environment-setup)**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Generate a new app ,mobile
 
-## Generate a new site
+Tạo 1 ứng dụng đầu tiên bằng câu lệnh tích hợp. Bạn có thể sử dụng được mã lệnh như npx kết hộp với node **classic template**:
 
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
+<!-- ```shell
 npm init docusaurus@latest my-website classic
-```
+``` -->
 
 ## Start your site
 
