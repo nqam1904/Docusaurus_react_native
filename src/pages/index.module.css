@@ -4,28 +4,29 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+   padding: 4rem 0;
+   text-align: center;
+   position: relative;
+   overflow: hidden;
 }
 
 @media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+   .heroBanner {
+      padding: 2rem;
+   }
 }
 .title {
-  color: rgba(0, 0, 0, 0.3) !important;
+   color: rgba(0, 0, 0, 0.3) !important;
 }
 .subtitle {
-  color: rgba(0, 0, 0, 0.3) !important;
+   color: rgba(0, 0, 0, 0.3) !important;
 }
 .buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
+
 html[data-theme="dark"] .title .subtitle {
-  color: #ffffff !important;
+   color: #ffffff !important;
 }
