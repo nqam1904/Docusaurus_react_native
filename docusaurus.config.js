@@ -56,14 +56,7 @@ const config = {
                   position: "left",
                   label: "Docs",
                },
-               {
-                  to: "/components",
-                  label: "Components",
-                  docId: "intro",
-                  position: "left",
-               },
                { to: "/blog", label: "Blog", position: "left" },
-               { to: "/help", label: "Help", position: "left" },
             ],
          },
          footer: {
@@ -76,10 +69,10 @@ const config = {
                         label: "Tutorial",
                         to: "/docs/intro",
                      },
-                     {
-                        label: "Components",
-                        to: "/components/intro",
-                     },
+                     // {
+                     //    label: "Components",
+                     //    to: "/components/intro",
+                     // },
                   ],
                },
                {
